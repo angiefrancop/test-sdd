@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "spec-server": {
+      "command": "node",
+      "args": ["~/.claude/spec-server/index.js"],
+      "env": {}
+    }
+  }
+}
